@@ -1,0 +1,5 @@
+<map id="include/Serial.h" name="include/Serial.h">
+<area shape="rect" id="Node000001" title="(Header for 4/2/1 channel Serial driver)" alt="" coords="37,5,148,32"/>
+<area shape="rect" id="Node000002" href="$_serial_passthrough_8cpp.html" title="Link serial trafic between Seria0 / Serial1 (and Serial2 / Serial3)" alt="" coords="5,80,180,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,48,95,80,90,80,90,48"/>
+</map>

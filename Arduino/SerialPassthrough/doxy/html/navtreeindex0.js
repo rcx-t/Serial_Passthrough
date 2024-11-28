@@ -1,0 +1,22 @@
+var NAVTREEINDEX0 =
+{
+"_serial_passthrough_8ino.html":[1,0,0],
+"_serial_passthrough_8ino.html#a2f7c79421cd455d05d20c28fdb727025":[1,0,0,1],
+"_serial_passthrough_8ino.html#a487f9f3640c7f6b9b416134274259866":[1,0,0,3],
+"_serial_passthrough_8ino.html#a4fc01d736fe50cf5b977f755b675f11d":[1,0,0,5],
+"_serial_passthrough_8ino.html#abbc8b23802c01170142eee9fa7a8d729":[1,0,0,2],
+"_serial_passthrough_8ino.html#abc45e1674ee749f0c446d5811ba5d8d8":[1,0,0,6],
+"_serial_passthrough_8ino.html#aee18c107e96ed64949606fca967eafdb":[1,0,0,0],
+"_serial_passthrough_8ino.html#afe461d27b9c48d5921c00d521181f12f":[1,0,0,4],
+"_serial_passthrough_8ino_source.html":[1,0,0],
+"files.html":[1,0],
+"globals.html":[1,1,0],
+"globals_defs.html":[1,1,3],
+"globals_func.html":[1,1,1],
+"globals_vars.html":[1,1,2],
+"index.html":[],
+"index.html":[0],
+"index.html#sekcija1":[0,1],
+"index.html#uvod":[0,0],
+"pages.html":[]
+};

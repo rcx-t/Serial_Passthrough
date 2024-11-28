@@ -1,0 +1,7 @@
+<map id="led_toggle" name="led_toggle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,31,187,57"/>
+<area shape="rect" id="Node000002" href="$_serial_passthrough_8ino.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="9,5,55,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,34,54,26,56,21,92,29"/>
+<area shape="rect" id="Node000003" href="$_serial_passthrough_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,56,59,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,59,60,66,58,61,91,54"/>
+</map>

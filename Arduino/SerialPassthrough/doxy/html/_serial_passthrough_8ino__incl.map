@@ -1,0 +1,7 @@
+<map id="SerialPassthrough.ino" name="SerialPassthrough.ino">
+<area shape="rect" id="Node000001" title="Link serial trafic between Serial &lt;&#45;&#45;&gt; Serial1 AND Serial2 &lt;&#45;&#45;&gt; Serial3." alt="" coords="21,5,170,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,82,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,34,63,69,59,66,84,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,80,190,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,31,132,66,128,69,102,34"/>
+</map>

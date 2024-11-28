@@ -1,0 +1,16 @@
+<map id="calc_baud" name="calc_baud">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,81,305,108"/>
+<area shape="rect" id="Node000002" href="$_serial_8cpp.html#a4303e685a21debe58b5f601c055399ee" title=" " alt="" coords="103,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,75,162,35,165,30,230,70"/>
+<area shape="rect" id="Node000004" href="$_serial_8cpp.html#a7f4ec2aa2db44dbae0ce1b595588de02" title=" " alt="" coords="103,56,177,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,86,177,79,178,74,210,81"/>
+<area shape="rect" id="Node000005" href="$_serial_8cpp.html#aeba5a5a77e9c64ccec3a75ec933fc019" title=" " alt="" coords="103,107,177,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="210,109,178,115,177,110,209,103"/>
+<area shape="rect" id="Node000006" href="$_serial_8cpp.html#a5a3f1f75f505ecc5681a6e432e77fb3b" title=" " alt="" coords="103,157,177,184"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="230,119,165,159,162,155,227,114"/>
+<area shape="rect" id="Node000003" href="$_serial_passthrough_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,81,55,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,43,104,46,52,83,49,79,101,42,105,39"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="88,84,56,92,55,86,87,79"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="87,111,55,103,56,98,88,105"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="105,150,101,148,49,111,52,106,104,143,108,146"/>
+</map>

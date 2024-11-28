@@ -1,0 +1,5 @@
+<map id="uart2_init" name="uart2_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="Node000002" href="$_serial_8cpp.html#a27f236f876c631b8d5213b97309065b1" title=" " alt="" coords="128,5,208,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,16,112,16,112,21,80,21"/>
+</map>
